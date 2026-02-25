@@ -11,7 +11,7 @@ While this project was developed as a team, I served as the **Main Designer**. M
 * **Component Integration:** Assembled the complete digital model, ensuring all parts fit within required mechanical tolerances.
 
 ## ⚠️ Design Disclaimer
-* To optimize the design process and reflect real-world engineering practices, certain standard components (e.g., fasteners, falnge bearing unit, motor, belt tensioner etc.) used in this digital assembly were sourced from freely available online CAD catalogs.
+* To optimize the design process and reflect real-world engineering practices, certain standard components (e.g., fasteners, flange bearing unit, motor, belt tensioner etc.) used in this digital assembly were sourced from freely available online CAD catalogs.
 
 ## 📁 Repository Contents
 * `Woodchipper.pdf`: The complete final engineering documentation, detailing the design process, calculations, and specifications.
